@@ -148,4 +148,4 @@ jobs:
           context: ./gateway/
           push: true
           # Тут вместо username должен быть ваш логин на Docker Hub
-          tags: kheydelberg22/taski_gateway:latest
+          tags: kheydelberg/taski_gateway:latest
